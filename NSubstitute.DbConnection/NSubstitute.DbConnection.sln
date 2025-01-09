@@ -5,6 +5,7 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2D0A77E7-E5F3-44E9-8622-19B3EC046F1A}"
 	ProjectSection(SolutionItems) = preProject
+		Directory.Packages.props = Directory.Packages.props
 		StyleCop.Analyzers.ruleset = StyleCop.Analyzers.ruleset
 	EndProjectSection
 EndProject
